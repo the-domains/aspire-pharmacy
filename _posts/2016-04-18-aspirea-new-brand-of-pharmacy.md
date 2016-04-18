@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'When we opened our doors in July 2015, we wanted to be different. We wanted to focus not just on medications, but on health care. Your health care. '
-datePublished: '2016-04-18T19:38:22.306Z'
-dateModified: '2016-04-18T19:29:35.351Z'
+datePublished: '2016-04-18T19:41:41.524Z'
+dateModified: '2016-04-18T19:38:30.192Z'
 title: Aspire—a new brand of pharmacy
 author: []
 sourcePath: _posts/2016-04-18-aspirea-new-brand-of-pharmacy.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: aspirea-new-brand-of-pharmacy/index.html
-_type: Article
+_type: WebPage
 
 ---
 ## Aspire---a new brand of pharmacy

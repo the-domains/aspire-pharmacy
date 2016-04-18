@@ -1,0 +1,28 @@
+name: Aspire pharmacy
+favicon: null
+layout_spectrum: 0.7420104637276381
+typography_spectrum: 0.4207741485442966
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5269301568623632
+  lightness: 0.4203318692743778
+  saturation: 0.4893919392488897
+  rhythmicContrast: 0.6349308644421399
+purpose: []

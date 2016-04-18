@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Our team of health-care professionals are taking a different approach to your health care. '
-datePublished: '2016-04-18T19:44:21.993Z'
-dateModified: '2016-04-18T19:43:53.805Z'
+datePublished: '2016-04-18T19:48:11.686Z'
+dateModified: '2016-04-18T19:44:30.345Z'
 title: 'Has your pharmacist ever called to check on you? '
 author: []
+sourcePath: _posts/2016-04-18-has-your-pharmacist-ever-called-to-check-on-you.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-has-your-pharmacist-ever-called-to-check-on-you.md
-published: true
 url: has-your-pharmacist-ever-called-to-check-on-you/index.html
 _type: Article
 
